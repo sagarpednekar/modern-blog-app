@@ -1,0 +1,9 @@
+{
+  "name": "@sagarpednekar/medium-common",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^3.23.8"
+  }
+}
